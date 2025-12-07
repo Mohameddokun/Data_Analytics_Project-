@@ -24,7 +24,6 @@ The analysis focuses on answering practical questions for the business:
 
 3-  what specific public policies and private sector are required to raise the national female participation rate by 5-8% percentage points to reach a target of 20% by the end of 2030?
 
-Based on the current demographic and geographic structure of the workforce, what are the key opportunities and challenges facing the Egyptian labor market?
 
 
 Data Sources
